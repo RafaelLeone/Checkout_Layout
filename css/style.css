@@ -33,9 +33,9 @@ p{
 }
 
 .qr img{
-    width: 90%;
-    border-radius: 10px;
-    margin-top: 15px;
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 @media (min-width: 720px){
