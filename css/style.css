@@ -38,6 +38,15 @@ p{
     border-top-right-radius: 10px;
 }
 
+.dasbutton{
+    display: flex;
+    flex-direction: column;
+}
+
+.button{
+    margin: 5%;
+}
+
 @media (min-width: 720px){
     body{
         margin: 40%;
