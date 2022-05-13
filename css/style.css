@@ -101,6 +101,11 @@ h2{
     font-weight: 700;
 }
 
+.change:active{
+    color: #6c4b92;
+    text-decoration: none;
+}
+
 .first{
     padding: 0px;
     padding-top: 2px;
@@ -122,10 +127,18 @@ h2{
     width: 90%;
 }
 
+.button2:active{
+    background-color: #9645e1;
+}
+
 .button3{
     background-color: white;
     color: hsl(220, 15%, 55%);
     margin-bottom: 10%;
+}
+
+.button3:active{
+    color: hsla(220, 15%, 25%);
 }
 
 @media (min-width: 720px){
