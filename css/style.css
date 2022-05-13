@@ -71,6 +71,13 @@ p{
     flex-direction: column;
 }
 
+.change{
+    border-style: none;
+    background-color: hsl(212, 45%, 89%);
+    text-decoration: underline;
+    color: blueviolet;
+}
+
 .first{
     padding: 0px;
     margin: 0px;
