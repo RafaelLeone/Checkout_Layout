@@ -37,8 +37,8 @@ h2{
 
 p{
     color: hsl(220, 15%, 55%);
-    padding: 20px;
-    padding-top: 0px;
+    padding: 0px;
+    padding-left: 7.5%;
     width: 85%;
     font-weight: 400;
 }
