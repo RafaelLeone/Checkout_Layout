@@ -56,7 +56,15 @@ p{
 }
 
 .button1{
-    width: 90%;
+    width: 82%;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: space-around;
+}
+
+.gambiarra{
+    display: flex;
+    flex-direction: column;
 }
 
 .first{
