@@ -67,12 +67,20 @@ p{
     align-items: center;
 }
 
+.img{
+    width: 80%;
+    margin-left: 5px;
+}
+
 .gambiarra{
     display: flex;
     flex-direction: column;
 }
 
 .change{
+    margin-left: 12px;
+    margin-right: 5px;
+    font-size: 12px;
     border-style: none;
     background-color: hsl(212, 45%, 89%);
     text-decoration: underline;
@@ -81,8 +89,8 @@ p{
 
 .first{
     padding: 0px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-top: 2px;
+    padding-right: 15px;
     margin: 0px;
 }
 
