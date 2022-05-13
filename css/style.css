@@ -47,7 +47,7 @@ p{
 }
 
 .button{
-    margin: 5%;
+    margin: 2%;
 }
 
 .button1, .button2, .button3{
@@ -59,7 +59,8 @@ p{
 }
 
 .button1{
-    width: 82%;
+    height: 3rem;
+    width: 86%;
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: space-around;
@@ -94,7 +95,7 @@ p{
 .button3{
     background-color: white;
     color: hsl(220, 15%, 55%);
-    margin-bottom: 5%;
+    margin-bottom: 10%;
 }
 
 @media (min-width: 720px){
