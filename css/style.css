@@ -59,7 +59,7 @@ p{
 }
 
 .button1{
-    height: 3rem;
+    height: 4rem;
     width: 86%;
     background-color: hsl(212, 45%, 89%);
     display: flex;
@@ -81,6 +81,8 @@ p{
 
 .first{
     padding: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
     margin: 0px;
 }
 
