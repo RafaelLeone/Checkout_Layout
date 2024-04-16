@@ -1,3 +1,2 @@
-## Site preview:
-
-[Meu order summary](https://rafaelleone.github.io/d6-rafael-leone/)
+# Checkout Layout
+https://rafaelleone.github.io/Checkout_Layout/
